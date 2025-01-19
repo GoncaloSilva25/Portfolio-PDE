@@ -13,23 +13,28 @@ const timelineEvents = [
     side: "left",
   },
   {
+    date: "November , 2024",
+    title: "Glua Cybersecurity Workshop",
+    description: `Attended a workshop on Cybersecurity given by Glua. It was a hands-on workshop that covered vulnerability exploitation, simulation of the man in the middle attack, and a small introduction to Forensic Analysis. The workshop was very informative and provided a practical understanding of cybersecurity concepts and tools.`,
+  },
+  {
     date: "October 29th, 2024",
     title: "Managing Bibliographic References with Mendeley Reference Manager Webinar",
     description: `Attended a webinar on managing bibliographic references with Mendeley Reference Manager.The webinar provided an in-depth guide on managing bibliographic references using Mendeley. It covered the essentials of the software, including its installation, compatibility, and collaborative features. Participants learned how to import references automatically via the Web Importer or manually through DOI and metadata entry. Advanced functionalities, such as detecting duplicate entries, tagging references, and organizing them into collections or groups, were highlighted. Integration with Microsoft Word was demonstrated for seamless citation insertion, editing, and bibliography formatting using various citation styles. Finally, best practices for avoiding plagiarism and finalizing documents by breaking links to Mendeley were discussed.`, 
-    side: "right",
+    side: "left",
   },
   {
     date: "October 22nd, 2024",
     title: "Searching for Scientific Information Webinar",
     description: `Attended a webinar on how to search for scientific information, which covered the basics of how to conduct scientific and academic research.It covered the importance of peer-reviewed publications, differentiating between scientific articles, books, and conference papers. Key steps in research were outlined, including selecting reliable sources, defining topics with relevant keywords, and developing a search strategy using Boolean operators and truncation. It emphasized the role of academic databases and repositories like Scopus and PubMed and explored the integration of generative AI tools for literature review, synthesis, and decision-making. Practical tips, such as leveraging bibliographic references and refining search terms, were also provided.`,
-    side: "left",
+    side: "right",
   },
   {
     date: "October 2nd, 2024",
     title: "High Performance Computing Introduction Workshop",
     description: `Attended a workshop on High Performance Computing (HPC) on the university. The workshop covered the basics of HPC, how to connect to the university's HPC cluster, and how to run jobs 
     on the cluster, this being very useful for parallel programming using MPI and other parallel programming libraries. It was also used to introduce the EuroCC2 project to the participants.`,
-    side: "right",
+    side: "left",
   },
 
 
