@@ -36,12 +36,12 @@ const documents = {
     {
       title: "Thesis Proposal",
       
-      description: "Detailed research proposal and methodology",
+      description: "Initial thesis proposal and Objectives",
       downloadUrl: "/documents/thesis/Thesis_proposal.pdf",
     },
     {
       title: "Pre-Thesis Document",
-      description: "Preliminary findings and progress report",
+      description: "Pre-thesis document with literature review and methodology",
       downloadUrl: "/documents/thesis/Pre_Thesis_Document_103668.pdf",
     },
   ],
