@@ -12,7 +12,7 @@ export default function Home() {
       entries.forEach((entry) => {
         if (entry.isIntersecting) {
           const index = Number(entry.target.getAttribute("data-index"));
-          setVisibleIndexes((prev) => Array.from(new Set([...prev, index])));
+          setVisibleIndexes((prev) => [...new Set([...prev, index])]);
         }
       });
     };
