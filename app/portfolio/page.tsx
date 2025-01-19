@@ -13,7 +13,7 @@ const timelineEvents = [
     side: "left",
   },
   {
-    date: "November , 2024",
+    date: "November 28th, 2024",
     title: "Glua Cybersecurity Workshop",
     description: `Attended a workshop on Cybersecurity given by Glua. It was a hands-on workshop that covered vulnerability exploitation, simulation of the man in the middle attack, and a small introduction to Forensic Analysis. The workshop was very informative and provided a practical understanding of cybersecurity concepts and tools.`,
   },
