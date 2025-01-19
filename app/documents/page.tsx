@@ -27,7 +27,7 @@ const documents = {
     },
     {
       title: "Sprint 4",
-      date: "[Date]",
+      date: "December 17th 2024",
       description: "Evaluation and optimization",
       downloadUrl: "/documents/sprints/PDE_Sprint_4_103668.pptx",
     },

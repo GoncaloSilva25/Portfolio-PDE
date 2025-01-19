@@ -84,7 +84,9 @@ export default function Home() {
         <h2 className="text-3xl font-bold tracking-tight">About Me</h2>
         <div className="prose prose-neutral dark:prose-invert max-w-none">
           <p className="text-lg text-muted-foreground">
-            [Your introduction and background here]
+          Hello, I'm Gonçalo Silva, currently pursuing a Master's degree in Computer Engineering at the Universidade de Aveiro. 
+          I'm working on my dissertation titled "Skin Disease Diagnosis with Adversarial Training and Diffusion Models", 
+          guided by my advisors, Filipe Silva and Petia Georgieva.
           </p>
         </div>
       </section>
